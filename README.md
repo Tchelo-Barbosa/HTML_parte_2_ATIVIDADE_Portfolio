@@ -1,4 +1,4 @@
-# $\color{#FAC06C}{\text{Meu}\ \text{Portfólio}\ \text{Pessoal}}$ | $\color{#FAC06C}{\text{Marcelo}\ \text{Pessoal}}$
+# $\color{#FAC06C}{\text{Meu}\ \text{Portfólio}\ \text{Pessoal}}$ | $\color{#FAC06C}{\text{Marcelo}\ \text{Barbosa}}$
 
 <img width="585" height="250" alt="Gato_Fofo" src="https://github.com/user-attachments/assets/0c5d8c1a-4f51-4fd4-81cc-77a42f3c416a" />
 
